@@ -76,3 +76,33 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 - Zasady oceniania: [INF_04_2021_06_01_SG_zo.xlsx](_arkusze/2021-06/INF_04_2021_06_01_SG_zo.xlsx)
 - Punktacja: **nieznana**
 - Rozwiązanie: **brak**
+
+## Według rodzajów zadań
+
+Od najstarszych do najnowszych
+
+### Aplikacja konsolowa
+
+- [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg)
+- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg)
+- [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)
+- [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)
+- [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg)
+- [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg)
+- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd)
+
+### Aplikacja desktopowa
+
+- [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg)
+
+### Aplikacja webowa
+
+- [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)
+
+### Aplikacja mobilna
+
+- [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg)
+- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg)
+- [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)
+- [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg)
+- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd)
