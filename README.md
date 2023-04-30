@@ -13,7 +13,7 @@ Wykonaj **aplikację konsolową** oraz **desktopową** według wskazań.
 - Arkusz: [inf_04_2023_01_01_SG_kolor.pdf](_arkusze/2023-01/inf_04_2023_01_01_SG_kolor.pdf) (wersja z czcionką 16pt: [inf_04_2023_01_01_AG_kolor.pdf](_arkusze/2023-01/inf_04_2023_01_01_AG_kolor.pdf))
 - Zasady oceniania: [INF_04_2023_01_01_SG_zo.xlsx](_arkusze/2023-01/INF_04_2023_01_01_SG_zo.xlsx)
 - Punktacja: **nieznana**
-- Rozwiązanie: **brak**
+- Rozwiązanie: [INF.04-23.01/INF.04-01-23.01-SG/](INF.04-23.01/INF.04-01-23.01-SG/)
 
 #### Zadanie INF.04-02-23.01-SG
 
