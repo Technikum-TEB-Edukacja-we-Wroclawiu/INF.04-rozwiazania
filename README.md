@@ -2,6 +2,8 @@
 
 Rozwiązania zadań z egzaminów zawodowych INF.04 dla [Technikum TEB Edukacja we Wrocławiu](https://technikum.pl/miasta/wroclaw). Najpierw rocznikami, potem rodzajami zadań.
 
+Oznaczenia arkuszy: *SG* - sesja główna, *AG* - sesja główna, wersja z czcionką o rozmiarze 16 pt, *SD* - sesja dodatkowa, *AD* - sesja dodatkowa, wersja z czcionką o rozmiarze 16 pt.
+
 ## Według roczników
 
 ### 2023 - styczeń
@@ -32,7 +34,7 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 - Arkusz: [inf_04_2023_01_01_SD_kolor.pdf](_arkusze/2023-01/inf_04_2023_01_01_SD_kolor.pdf)
 - Zasady oceniania: [INF_04_2023_01_01_SD_zo.xlsx](_arkusze/2023-01/INF_04_2023_01_01_SD_zo.xlsx)
 - Punktacja: **nieznana**
-- Rozwiązanie: **brak**
+- Rozwiązanie: [INF.04-23.01/INF.04-01-23.01-SD/](INF.04-23.01/INF.04-01-23.01-SD/)
 
 ### 2022 - czerwiec
 
@@ -89,7 +91,7 @@ Od najstarszych do najnowszych
 - [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)
 - [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg)
 - [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg)
-- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd)
+- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (**identyczna** z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
 
 ### Aplikacja desktopowa
 
@@ -105,4 +107,4 @@ Od najstarszych do najnowszych
 - [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (**identyczna** z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
 - [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)
 - [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg)
-- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd)
+- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (**identyczna** z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
