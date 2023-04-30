@@ -23,7 +23,7 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 - Pliki do zadania: [zad2.zip](_arkusze/2023-01/INF.04-02-23.01-SG/zad2.zip)
 - Zasady oceniania: [INF_04_2023_01_02_SG_zo.xlsx](_arkusze/2023-01/INF_04_2023_01_02_SG_zo.xlsx)
 - Punktacja: **nieznana**
-- Rozwiązanie: **brak**
+- Rozwiązanie: [INF.04-23.01/INF.04-02-23.01-SG/](INF.04-23.01/INF.04-02-23.01-SG/)
 
 #### Zadanie INF.04-01-23.01-SD
 
