@@ -64,7 +64,7 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 - Arkusz: [inf_04_2022_01_01_SG_kolor.pdf](_arkusze/2022-01/inf_04_2022_01_01_SG_kolor.pdf)
 - Zasady oceniania: [INF_04_2022_01_01_SG_zo.xlsx](_arkusze/2022-01/INF_04_2022_01_01_SG_zo.xlsx)
 - Punktacja: **nieznana**
-- Rozwiązanie: **brak**
+- Rozwiązanie: [INF.04-22.01/INF.04-01-22.01-SG/](INF.04-22.01/INF.04-01-22.01-SG/)
 
 ### 2021 - czerwiec
 
@@ -84,7 +84,7 @@ Od najstarszych do najnowszych
 ### Aplikacja konsolowa
 
 - [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg)
-- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg)
+- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (**identyczna** z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
 - [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)
 - [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)
 - [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg)

@@ -19,7 +19,7 @@ Rysunek 1. Przedstawiony wynik działania aplikacji - wprowadzono kolejne dziesi
 
 ## Aplikacja mobilna
 
-**Uwaga.** Zrzuty są z zadania INF.04-01-22.01-SG, ponieważ aplikacja mobilna w tych zadaniach była identyczna.
+**Uwaga.** Zrzuty są z zadania [INF.04-01-22.01-SG](/INF.04-22.01/INF.04-01-22.01-SG/), ponieważ aplikacja mobilna w tych zadaniach była identyczna. Na zajęciach kursu realizowaliśmy jednak to zadanie przed poprzednim, stąd najpierw to.
 
 ![mobilna1.png](dokumentacja/mobilna1.png)
 Rysunek 2. Stan po uruchomieniu aplikacji.
