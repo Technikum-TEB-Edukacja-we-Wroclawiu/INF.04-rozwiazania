@@ -79,19 +79,29 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 - Punktacja: **nieznana**
 - Rozwiązanie: [INF.04-21.06/INF.04-01-21.06-SG/](INF.04-21.06/INF.04-01-21.06-SG/)
 
+### Informator
+
+Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
+
+- Arkusz: [technik_programista.pdf](/technik_programista.pdf), strona 39
+- Zasady oceniania: *nieznane*
+- Punktacja: *nieznana*
+- Rozwiązanie: [INF.04-informator/](INF.04-informator/)
+
 ## Według rodzajów zadań
 
 Od najstarszych do najnowszych
 
 ### Aplikacja konsolowa
 
+- [INF.04-informator](#informator)
 - [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg)
-- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (**identyczna** z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
+- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (identyczna z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
 - [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)
 - [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)
 - [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg)
 - [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg)
-- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (**identyczna** z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
+- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (identyczna z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
 
 ### Aplikacja desktopowa
 
@@ -103,8 +113,9 @@ Od najstarszych do najnowszych
 
 ### Aplikacja mobilna
 
+- [INF.04-informator](#informator)
 - [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg)
-- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (**identyczna** z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
+- [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (identyczna z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
 - [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)
 - [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg)
-- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (**identyczna** z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
+- [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (identyczna z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
