@@ -93,13 +93,11 @@ Od najstarszych do najnowszych. Legenda:
 | Symbol arkusza | C++ | C# | Python | Java |
 |-|:-:|:-:|:-:|:-:|
 | [INF.04-informator](#informator) | ✅ | ✅ | ✅ | ✏️ |
-| [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) | ✏️ | ✏️ | ✅ | ✏️ |
-| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (identyczna z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
+| [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) \| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg) | ✏️ | ✏️ | ✅ | ✏️ |
-| [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) | ✏️ | ✏️ | ✅ | ✏️ |
-| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (identyczna z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
+| [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) | ✏️ | ✏️ | ✅ | ✏️ |
 
 ### Aplikacja desktopowa
 
@@ -122,8 +120,6 @@ Jeszcze nigdy nie było.
 | Symbol arkusza | Visual Studio | Android Studio | XCode | Visual Studio for Mac |
 |-|:-:|:-:|:-:|:-:|
 |[INF.04-informator](#informator) | ✏️ | ✅ | ❔ | ❔ |
-|[INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) | ✏️ | ✅ | ❔ | ❔ |
-|[INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) (identyczna z [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg))
+|[INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) \| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) | ✏️ | ✅ | ❔ | ❔ |
 | [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg) | ✏️ | ✅ | ❔ | ❔ |
-| [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) | ✏️ | ✅ | ❔ | ❔ |
-| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) (identyczna z [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg))
+| [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) | ✏️ | ✅ | ❔ | ❔ |
