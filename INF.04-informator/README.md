@@ -6,7 +6,7 @@ System operacyjny: Windows 11 Pro wersja 22H2
 
 Środowiska programistyczne: Android Studio Electric Eel | 2022.1.1 Patch 2; PyCharm 2023.1 (Professional Edition)
 
-Języki programowania: Java, Python
+Języki programowania: Java, Python, C#
 
 Emulowane urządzenie: Nexus 5 API 31 (Android Oreo)
 
@@ -14,8 +14,14 @@ Emulowane urządzenie: Nexus 5 API 31 (Android Oreo)
 
 ## Aplikacja konsolowa
 
-![konsola.png](dokumentacja/konsola.png)
+### Wersja w Pythonie z PyQT
+
+![konsola.png](dokumentacja/konsola%20(Py).png)
 Rysunek 1. Uruchomiono program, wprowadzono tekst do zaszyfrowania "PROGRAM" i uzyskano szyfrogram "OYPAYGM".
+
+### Wersja w C#
+![konsola.png](dokumentacja/konsola%20(C%23).png)
+Rysunek 1. Uruchomiono program, wprowadzono tekst do zaszyfrowania "To jest przykład wykonania programu gaDErYpoLUKi." i uzyskano szyfrogram "tp jdst oyzriłge wripngnkg oypaygml agEDyRopULIk.".
 
 ## Aplikacja mobilna
 
