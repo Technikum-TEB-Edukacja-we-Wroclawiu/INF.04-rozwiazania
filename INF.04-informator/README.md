@@ -4,7 +4,7 @@
 
 System operacyjny: Windows 11 Pro wersja 22H2
 
-Środowiska programistyczne: Android Studio Electric Eel | 2022.1.1 Patch 2; PyCharm 2023.1 (Professional Edition)
+Środowiska programistyczne: Android Studio Electric Eel | 2022.1.1 Patch 2; PyCharm 2023.1 (Professional Edition), Visual Studio 2019 Professional
 
 Języki programowania: Java, Python, C#
 
