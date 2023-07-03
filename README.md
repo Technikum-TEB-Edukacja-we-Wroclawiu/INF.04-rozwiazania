@@ -25,6 +25,14 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 - Zasady oceniania: ...
 - Rozwiązanie: [INF.04-23.06/INF.04-02-23.06-SG/](INF.04-23.06/INF.04-02-23.06-SG/)
 
+#### Zadanie INF.04-03-23.06-SG
+
+Wykonaj aplikację **konsolową** oraz **webową** według wskazań.
+
+- Arkusz: [inf_04_2023_06_03_SG_kolor.pdf](_arkusze/2023-06/inf_04_2023_06_03_SG_kolor.pdf)
+- Zasady oceniania: ...
+- Rozwiązanie: [INF.04-23.06/INF.04-03-23.06-SG/](INF.04-23.06/INF.04-03-23.06-SG/)
+
 ### 2023 - styczeń
 
 #### Zadanie INF.04-01-23.01-SG
@@ -119,6 +127,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
+| [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 
 ### Aplikacja desktopowa
 
@@ -132,6 +141,7 @@ Od najstarszych do najnowszych. Legenda:
 | Symbol arkusza | Angular | React |
 |-|:-:|:-:|
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) | ✅ | ✏️ |
+| [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) | ✅ | ✏️ |
 
 ### Aplikacja webowa (back-end)
 
