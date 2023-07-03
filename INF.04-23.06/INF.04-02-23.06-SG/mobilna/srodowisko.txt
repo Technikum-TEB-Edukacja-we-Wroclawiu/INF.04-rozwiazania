@@ -1,0 +1,2 @@
+Środowisko: Android Studio Flamingo | 2022.2.1 Patch 2
+Urządzenie: Pixel 5 API 33 | Android 13.0 Google APIs | x86_64
