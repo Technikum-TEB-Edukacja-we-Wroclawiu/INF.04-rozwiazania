@@ -6,6 +6,17 @@ Oznaczenia arkuszy: *SG* - sesja główna, *AG* - sesja główna, wersja z czcio
 
 ## Według roczników
 
+### 2023 - czerwiec
+
+#### Zadanie INF.04-01-23.06-SG
+
+Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
+
+- Arkusz: [inf_04_2023_06_01_SG_kolor.pdf](_arkusze/2023-06/inf_04_2023_06_01_SG_kolor.pdf)
+- Pliki do zadania: [materialy.zip](_arkusze/2023-06/materialy.zip)
+- Zasady oceniania: ...
+- Rozwiązanie: [INF.04-23.06/INF.04-01-23.06-SG/](INF.04-23.06/INF.04-01-23.06-SG/)
+
 ### 2023 - styczeń
 
 #### Zadanie INF.04-01-23.01-SG
@@ -98,12 +109,14 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) | ✏️ | ✏️ | ✅ | ✏️ |
+| [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 
 ### Aplikacja desktopowa
 
 | Symbol arkusza | C++ | C# | Python | Java |
 |-|:-:|:-:|:-:|:-:|
 | [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg) | ✏️ | ✏️ | ✅ (PyQT) | ✏️ |
+| [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) | ✏️ | ✏️ | ✅ (PyQT) | ✏️ |
 
 ### Aplikacja webowa (front-end)
 
