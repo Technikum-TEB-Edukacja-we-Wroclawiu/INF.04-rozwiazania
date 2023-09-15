@@ -14,7 +14,7 @@ Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
 
 - Arkusz: [inf_04_2023_06_01_SG_kolor.pdf](_arkusze/2023-06/inf_04_2023_06_01_SG_kolor.pdf)
 - Pliki do zadania: [materialy.zip](_arkusze/2023-06/materialy.zip)
-- Zasady oceniania: ...
+- Zasady oceniania: [INF_04_2023_06_01_SG_zo.xlsx](_arkusze/2023-06/INF_04_2023_06_01_SG_zo.xlsx)
 - Rozwiązanie: [INF.04-23.06/INF.04-01-23.06-SG/](INF.04-23.06/INF.04-01-23.06-SG/)
 
 #### Zadanie INF.04-02-23.06-SG
@@ -22,7 +22,7 @@ Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
 Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2023_06_02_SG_kolor.pdf](_arkusze/2023-06/inf_04_2023_06_02_SG_kolor.pdf)
-- Zasady oceniania: ...
+- Zasady oceniania: [INF_04_2023_06_02_SG_zo.xlsx](_arkusze/2023-06/INF_04_2023_06_02_SG_zo.xlsx)
 - Rozwiązanie: [INF.04-23.06/INF.04-02-23.06-SG/](INF.04-23.06/INF.04-02-23.06-SG/)
 
 #### Zadanie INF.04-03-23.06-SG
@@ -30,8 +30,16 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 Wykonaj aplikację **konsolową** oraz **webową** według wskazań.
 
 - Arkusz: [inf_04_2023_06_03_SG_kolor.pdf](_arkusze/2023-06/inf_04_2023_06_03_SG_kolor.pdf)
-- Zasady oceniania: ...
+- Zasady oceniania: [INF_04_2023_06_03_SG_zo.xlsx](_arkusze/2023-06/INF_04_2023_06_03_SG_zo.xlsx)
 - Rozwiązanie: [INF.04-23.06/INF.04-03-23.06-SG/](INF.04-23.06/INF.04-03-23.06-SG/)
+
+#### Zadanie INF.04-01-23.06-SD
+
+Wykonaj aplikację **konsolową** oraz **webową** według wskazań.
+
+- Arkusz: [inf_04_2023_06_01_SD.pdf](_arkusze/2023-06/inf_04_2023_06_01_SD.pdf)
+- Zasady oceniania: [INF_04_2023_06_01_SD_zo.xlsx](_arkusze/2023-06/INF_04_2023_06_01_SD_zo.xlsx)
+- Rozwiązanie: [INF.04-23.06/INF.04-01-23.06-SD/](INF.04-23.06/INF.04-01-23.06-SD/)
 
 ### 2023 - styczeń
 
@@ -128,6 +136,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) | ✏️ | ✏️ | ✅ | ✏️ |
+| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) | ✏️ | ✏️ | ✅ | ✏️ |
 
 ### Aplikacja desktopowa
 
@@ -142,6 +151,7 @@ Od najstarszych do najnowszych. Legenda:
 |-|:-:|:-:|
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) | ✅ | ✏️ |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) | ✅ | ✏️ |
+| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) | ✅ | ✏️ |
 
 ### Aplikacja webowa (back-end)
 
