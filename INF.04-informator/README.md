@@ -2,14 +2,14 @@
 
 ## Informacje o rozwiązaniu
 
-System operacyjny: Windows 11 Pro wersja 22H2
+System operacyjny: Windows 11 Pro wersja 22H2 oraz macOS Ventura 13.4
 
-Środowiska programistyczne: Android Studio Electric Eel | 2022.1.1 Patch 2; PyCharm 2023.1 (Professional Edition), Visual Studio 2022 Community
+Środowiska programistyczne: Android Studio Electric Eel | 2022.1.1 Patch 2; PyCharm 2023.1 (Professional Edition), Visual Studio 2022 Community, IntelliJ IDEA 2022.3.3 (Ulitimate)
 
 Języki programowania:
 
 - Java (aplikacja mobilna),
-- Python, C#, C++20 (aplikacja desktopowa)
+- Python, C#, C++20, Java (aplikacja desktopowa)
 
 Emulowane urządzenie: Nexus 5 API 31 (Android Oreo)
 
@@ -31,6 +31,10 @@ Rysunek 2. Uruchomiono program, wprowadzono tekst do zaszyfrowania "To jest przy
 
 ![konsola.png](dokumentacja/konsola%20(C%2B%2B20).png)
 Rysunek 3. Uruchomiono program, wprowadzono tekst do zaszyfrowania "Oto przykład programu w C++20 używającego szyfru GADERYpoluki" i uzyskano szyfrogram "Ptp oyzriłge oypaygml w C++20 lżrwgjącdap szrfyl AGEDYRopulik.".
+
+### Wersja w Javie
+![konsola.png](dokumentacja/konsola%20(Java).png)
+Rysunek 4. Uruchomiono program, wprowadzono tekst do zaszyfrowania "program" i uzyskano szyfrogram "oypaygm".
 
 ## Aplikacja mobilna
 
