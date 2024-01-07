@@ -1,0 +1,41 @@
+<!-- Zadanie z arkusza rozbudowane o:
+- dodawanie kursu do listy,
+- wyświetlanie komunikatów na stronie. -->
+
+<h2>Liczba kursów: {{ courses_names.length }}</h2>
+
+<ol>
+  <li *ngFor="let name of courses_names">{{ name }}</li>
+</ol>
+
+<form #form="ngForm" (ngSubmit)="formSubmitted()">
+  <div class="form-group">
+    <label for="nameAndSurname">Imię i nazwisko:</label>
+    <input type="text" class="form-control" name="nameAndSurname" id="nameAndSurname" [(ngModel)]="nameAndSurname" (ngModelChange)="resetStatus()">
+  </div>
+  <div class="form-group">
+    <label for="courseNumber">Numer kursu:</label>
+    <input type="number" class="form-control" name="courseNumber" id="courseNumber" [(ngModel)]="courseNumber" (ngModelChange)="resetStatus()">
+  </div>
+  <div class="form-group">
+    <button class="btn btn-primary">Zapisz do kursu</button>
+  </div>
+</form>
+<!-- <p *ngIf="courseNumber > 0 && courseNumber <= courses_names.length; else wrongCourseNumber">Wybrany kurs: {{ courses_names[courseNumber - 1] }}</p>
+
+<ng-template #wrongCourseNumber>Wybierz prawidłowy numer kursu</ng-template> -->
+
+<p>{{ status }}</p>
+
+<hr>
+<div class="alert alert-danger" *ngIf="status_newCourse">{{ status_newCourse }}</div>
+<div class="alert alert-success" *ngIf="status_newCourse_success">Udało się!</div>
+<form #form2="ngForm" (ngSubmit)="addNewCourse()">
+  <div class="form-group">
+    <label for="newCourseName">Nazwa nowego kursu:</label>
+    <input type="text" class="form-control" name="newCourseName" id="newCourseName" [(ngModel)]="newCourseName">
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-success">Dodaj</button>
+  </div>
+</form>

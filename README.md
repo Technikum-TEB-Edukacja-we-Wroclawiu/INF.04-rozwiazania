@@ -149,9 +149,8 @@ Od najstarszych do najnowszych. Legenda:
 
 | Symbol arkusza | Angular | React |
 |-|:-:|:-:|
-| [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) | ✅ | ✏️ |
-| [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) | ✅ | ✏️ |
-| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) | ✅ | ✏️ |
+| [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) | ✅ | ✅ |
+| [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) | ✅ | ✏️ |
 
 ### Aplikacja webowa (back-end)
 
