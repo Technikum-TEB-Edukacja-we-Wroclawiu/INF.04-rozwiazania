@@ -1,0 +1,19 @@
+<form (ngSubmit)="wyslijFormularz()" #formularz="ngForm">
+  <div class="form-group">
+    <label for="film_title">Tytuł filmu</label>
+    <input type="text" name="film_title" id="film_title" class="form-control" [(ngModel)]="film_title">
+  </div>
+  <div class="form-group">
+    <label for="film_type">Rodzaj</label>
+    <select class="form-control" name="film_type" id="film_type" [(ngModel)]="film_type">
+      <option value="0"></option>
+      <option value="1">Komedia</option>
+      <option value="2">Obyczajowy</option>
+      <option value="3">Sensacyjny</option>
+      <option value="4">Horror</option>
+    </select>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary">Dodaj</button>
+  </div>  
+</form>
