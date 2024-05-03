@@ -27,6 +27,8 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg)                                                    | ✏️  | ✏️  |   ✅   |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15804)                 |
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                    | ✏️  | ✏️  |   ✅   |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15784)                 |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) | ✏️  | ✏️  |   ✅   |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15635)                 |
+| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg)                                                    | ✏️  | ✏️  |   ✏️   |  ✏️  |                                          ✏️                                          |
+| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) | ✏️  | ✏️  |   ✏️   |  ✏️  |                                          ✏️                                          |
 
 ### Aplikacja desktopowa
 
@@ -34,6 +36,7 @@ Od najstarszych do najnowszych. Legenda:
 | ----------------------------------------------- | :-: | :-: | :-------: | :--: | :----------------------------------------------------------------------------------: |
 | [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg) | ✏️  | ✏️  | ✅ (PyQT) |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15451)                 |
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) | ✏️  | ✏️  | ✅ (PyQT) |  ✏️  |                                          ✏️                                          |
+| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg) | ✏️  | ✏️  |    ✏️     |  ✏️  |                                          ✏️                                          |
 
 ### Aplikacja webowa (front-end)
 
@@ -55,8 +58,39 @@ Jeszcze nigdy nie było.
 | [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)                                                    |      ✏️       |       ✅       |  ❔   |          ❔           |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15450)                 |
 | [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd) |      ✏️       |       ✅       |  ❔   |          ❔           |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15783)                 |
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                    |      ✏️       |       ✅       |  ❔   |          ❔           |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15786)                 |
+| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) |      ✏️       |       ✏️       |  ❔   |          ❔           |                                          ✏️                                          |
 
 ## Według roczników
+
+### 2024 - styczeń
+
+#### Zadanie INF.04-01-24.01-SG
+
+Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
+
+- Arkusz: [inf_04_2024_01_01_SG.pdf](_arkusze/2024-01/inf_04_2024_01_01_SG.pdf)
+- Pliki do zadania: [materialy.7z](_arkusze/2024-01/materialy.7z)
+- Zasady oceniania: [INF_04_2024_01_01_SG_zo.pdf](_arkusze/2024-01/INF_04_2024_01_01_SG_zo.pdf)
+- Rozwiązanie: ✏️
+- <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> Rozwiązania wideo w SBC: ✏️
+
+#### Zadanie INF.04-02-24.01-SG
+
+Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
+
+- Arkusz: [inf_04_2024_01_02_SG.pdf](_arkusze/2024-01/inf_04_2024_01_02_SG.pdf)
+- Zasady oceniania: [INF_04_2024_01_02_SG_zo.pdf](_arkusze/2024-01/INF_04_2024_01_02_SG_zo.pdf)
+- Rozwiązanie: ✏️
+- <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> Rozwiązania wideo w SBC: ✏️
+
+#### Zadanie INF.04-01-24.01-SD
+
+Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
+
+- Arkusz: [inf_04_2024_01_01_SD.pdf](_arkusze/2024-01/inf_04_2024_01_01_SD.pdf)
+- Zasady oceniania: [INF_04_2024_01_01_SD_zo.pdf](_arkusze/2024-01/INF_04_2024_01_01_SD_zo.pdf)
+- Rozwiązanie: [INF.04-24.01/INF.04-01-24.01-SD](INF.04-24.01/INF.04-01-24.01-SD/)
+- <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> Rozwiązania wideo w SBC: ✏️
 
 ### 2023 - czerwiec
 
