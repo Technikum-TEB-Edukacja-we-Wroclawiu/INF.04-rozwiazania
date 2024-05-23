@@ -4,7 +4,7 @@ Rozwiązania zadań z egzaminów zawodowych INF.04 dla [Technikum TEB Edukacja w
 
 Oznaczenia arkuszy: _SG_ - sesja główna, _AG_ - sesja główna, wersja z czcionką o rozmiarze 16 pt, _SD_ - sesja dodatkowa, _AD_ - sesja dodatkowa, wersja z czcionką o rozmiarze 16 pt.
 
-Logotypem TEB Technikum <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> oznaczono linki do materiałów przeznaczonych ==dla uczniów i kursantów TEB techników w Szkolnej Bibliotece Cyfrowej== - [https://e-teb.pl/](https://www.e-teb.pl/course/view.php?id=1010).
+Logotypem TEB Technikum <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> oznaczono linki do materiałów przeznaczonych **dla uczniów i kursantów TEB techników w Szkolnej Bibliotece Cyfrowej** - [https://e-teb.pl/](https://www.e-teb.pl/course/view.php?id=1010).
 
 ## Według rodzajów zadań
 
@@ -27,8 +27,8 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg)                                                    | ✏️  | ✏️  |   ✅   |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15804)                 |
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                    | ✏️  | ✏️  |   ✅   |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15784)                 |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) | ✏️  | ✏️  |   ✅   |  ✏️  |                [📹](https://www.e-teb.pl/mod/page/view.php?id=15635)                 |
-| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg)                                                    | ✏️  | ✏️  |   ✏️   |  ✏️  |                                          ✏️                                          |
-| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) | ✏️  | ✏️  |   ✏️   |  ✏️  |                                          ✏️                                          |
+| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg)                                                    | ✏️  | ✏️  |   ✅   |  ✏️  |                                          ✏️                                          |
+| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) | ✏️  | ✏️  |   ✅   |  ✏️  |                                          ✏️                                          |
 
 ### Aplikacja desktopowa
 
