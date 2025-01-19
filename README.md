@@ -226,7 +226,7 @@ Wykonaj **aplikację konsolową** oraz **webową** według wskazań.
 Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2022_01_01_SG_kolor.pdf](_arkusze/2022-01/inf_04_2022_01_01_SG_kolor.pdf)
-- Zasady oceniania: [INF_04_2022_01_01_SG_zo.xlsx](_arkusze/2022-01/INF_04_2022_01_01_SG_zo.xlsx)
+- Zasady oceniania: [INF_04_2022_01_01_SG_zo.pdf](_arkusze/2022-01/INF_04_2022_01_01_SG_zo.pdf)
 - Rozwiązanie: [INF.04-22.01/INF.04-01-22.01-SG/](INF.04-22.01/INF.04-01-22.01-SG/)
 - <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> Rozwiązania wideo w SBC: [https://www.e-teb.pl/course/view.php?id=1010#section-5](https://www.e-teb.pl/course/view.php?id=1010#section-5)
 
@@ -237,7 +237,7 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2021_06_01_SG_kolor.pdf](_arkusze/2021-06/inf_04_2021_06_01_SG_kolor.pdf)
-- Zasady oceniania: [INF_04_2021_06_01_SG_zo.xlsx](_arkusze/2021-06/INF_04_2021_06_01_SG_zo.xlsx)
+- Zasady oceniania: [INF_04_2021_06_01_SG_zo.pdf](_arkusze/2021-06/INF_04_2021_06_01_SG_zo.pdf)
 - Rozwiązanie: [INF.04-21.06/INF.04-01-21.06-SG/](INF.04-21.06/INF.04-01-21.06-SG/)
 - <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> Rozwiązania wideo w SBC: [https://www.e-teb.pl/course/view.php?id=1010#section-4](https://www.e-teb.pl/course/view.php?id=1010#section-4)
 
