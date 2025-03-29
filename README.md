@@ -83,7 +83,7 @@ Wykonaj aplikację **konsolową** oraz **webową** według wskazań.
 - Arkusz: [inf_04_2025_01_01_SG_kolor.pdf](_arkusze/2025-01/inf_04_2025_01_01_SG_kolor.pdf)
 - Pliki do zadania: [pliki3.zip](_arkusze/2025-01/pliki3.zip)
 - Zasady oceniania: ⚠️**Oczekiwanie na publikację**⚠️
-- Rozwiązanie: ✏️
+- Rozwiązanie: [INF.04-25.01/INF.04-01-25.01-SG](INF.04-25.01/INF.04-01-25.01-SG)
 
 #### Zadanie INF.04-02-25.01-SG
 
