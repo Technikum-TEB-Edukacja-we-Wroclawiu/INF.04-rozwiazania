@@ -32,7 +32,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                            ❔                                            |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                            ❔                                            |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                            ❔                                            |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
 
 
 ### Aplikacja desktopowa
@@ -50,7 +50,7 @@ Od najstarszych do najnowszych. Legenda:
 | -------------------------------------------------------------------------------------------------- | :-----: | :---: | :-------------------------------------------------------------------------------------: |
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)                                                    |    ✅    |   ✅   |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15600)                   |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) |    ✅    |   ✅   |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15636)                   |
-| [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                    |    ✏️    |   ✏️   |                                            ❔                                            |
+| [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                    |    ❔    |   ✅   |                                            ❔                                            |
 
 
 ### Aplikacja webowa (back-end)
