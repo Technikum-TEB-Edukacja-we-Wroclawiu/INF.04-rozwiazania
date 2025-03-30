@@ -92,7 +92,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 - Arkusz: [inf_04_2025_01_02_SG_kolor.pdf](_arkusze/2025-01/inf_04_2025_01_02_SG_kolor.pdf)
 - Pliki do zadania: [pliki4.zip](_arkusze/2025-01/pliki4.zip)
 - Zasady oceniania: ⚠️**Oczekiwanie na publikację**⚠️
-- Rozwiązanie: ✏️
+- Rozwiązanie: [INF.04-25.01/INF.04-02-25.01-SG](INF.04-25.01/INF.04-02-25.01-SG)
 
 ### 2024 - czerwiec
 
