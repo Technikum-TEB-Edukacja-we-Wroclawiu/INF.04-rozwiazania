@@ -4,15 +4,21 @@
 
 System operacyjny: macOS Sequoia 15.3.2
 
-Środowiska programistyczne: PyCharm 2024.2.5 Professional Edition, WebStorm 2024.3.1
+Środowiska programistyczne: PyCharm 2024.2.5 Professional Edition, WebStorm 2024.3.1, CLion 2025.1
 
-Języki programowania: Python 3.13, JavaScript
+Języki programowania: Python 3.13, JavaScript, C++26
 
 ## Aplikacja konsolowa
 
-![](dokumentacja/konsola1.png)
+### Rozwiązanie w Pythonie
 
-![](dokumentacja/konsola2.png)
+![](dokumentacja/py_konsola1.png)
+
+![](dokumentacja/py_konsola2.png)
+
+### Rozwiązanie w C++26
+
+![](dokumentacja/cpp_konsola1.png)
 
 ## Aplikacja webowa
 
