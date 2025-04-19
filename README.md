@@ -273,6 +273,7 @@ Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 Wykonaj **aplikację konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [technik_programista.pdf](/technik_programista.pdf), strona 39
+- Pliki do zadania: [obrazy.zip](_arkusze/informator/obrazy.zip)
 - Zasady oceniania: _nieznane_
 - Rozwiązanie: [INF.04-informator/](INF.04-informator/)
 - <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> Rozwiązania wideo w TEB BC: [https://www.e-teb.pl/course/view.php?id=1245#section-3](https://www.e-teb.pl/course/view.php?id=1245#section-3)
