@@ -31,7 +31,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg) \| [INF.04-01-25.01-SD](#zadanie-inf04-01-2501-sd)                                                    |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
-| [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ✅   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
+| [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ✅   |   ❔   |   ✅    |   ✅   |                                            ❔                                            |
 | [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ✅   |   ❔   |   ✅    |   ✅   |                                            ❔                                            |
 
 ### Aplikacja desktopowa
