@@ -6,6 +6,12 @@ Oznaczenia arkuszy: _SG_ - sesja główna, _AG_ - sesja główna, wersja z czcio
 
 Logotypem TEB Biblioteki Cyfrowej <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> oznaczono linki do materiałów przeznaczonych **dla uczniów i kursantów TEB techników w Bibliotece Cyfrowej** - [https://e-teb.pl/](https://www.e-teb.pl/course/view.php?id=1245).
 
+> [!TIP]
+> Zachęcamy, szczególnie uczniów TEB Techników, do uzupełania repozytorium o brakujące rozwiązania poprzez _Pull Requesty_.
+
+> [!WARNING]
+> W tym repozytorium prezentujemy **przykładowe** rozwiązania zadań z egzaminu zawodowego INF.04. Nie są to jedyne ani najlepsze rozwiązania - zachęcamy do przesyłania własnych propozycji rozwiązań lub tworzenia _Issues_ w przypadku wątpliwości.
+
 ## Według rodzajów zadań
 
 Od najstarszych do najnowszych. Legenda:
