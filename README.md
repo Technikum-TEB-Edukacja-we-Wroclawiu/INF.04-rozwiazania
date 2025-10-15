@@ -38,7 +38,9 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg) \| [INF.04-01-25.01-SD](#zadanie-inf04-01-2501-sd) <br> _Logika gry w kości_                                                                           | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) <br> _Logika odtwarzacza muzyki - praca z plikami_                                                                                                     | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg) <br> _Operacje na tablicach_                                                                                                                           | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) <br> _Urządzenia domowe - dziedziczenie_                                                                                                               | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) \| [INF.04-01-25.06-SD](#zadanie-inf04-01-2506-sd) <br> _Urządzenia domowe - dziedziczenie_                                                                                                               | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
+| [INF.04-01-25.06-SG](#zadanie-inf04-01-2506-sg) <br> _Loteria liczbowa_                                                                                                                                | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
+| [INF.04-02-25.06-SG](#zadanie-inf04-02-2506-sg) <br> _Szyfr Cezara i testy jednostkowe_                                                                                                                | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 
 ### Aplikacja desktopowa
 
@@ -48,6 +50,8 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) <br> _Obsługa poczty (nadaj przesyłkę)_       | ❔  | ❔  | ✅ (PyQT) |  ❔  |                                        ❔                                         |
 | [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg) <br> _Wprowadzanie danych do paszportu_       | ❔  | ❔  |    ❔     |  ❔  |                                        ❔                                         |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) <br> _Interfejs graficzny odtwarzacza muzyki_ | ❔  | ❔  | ✅ (PyQT) |  ❔  |                                        ❔                                         |
+| [INF.04-01-25.06-SG](#zadanie-inf04-01-2506-sg) <br> _Wybór kolorów z palety RGB_             | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
+| [INF.04-02-25.06-SG](#zadanie-inf04-02-2506-sg) <br> _Szyfr Cezara i zapis do pliku_          | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 
 ### Aplikacja webowa (front-end)
 
@@ -72,11 +76,38 @@ Jeszcze nigdy nie było.
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg) <br> _Właściwości czcionki_                                                                                                       |      ❔       |       ✅       |  ❔   |          ❔           |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19890)               |
 | [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) <br> _Wizyta u weterynarza_ |      ❔       |       ✅       |  ❔   |          ❔           |                                        ❔                                         |
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg) \| [INF.04-01-25.01-SD](#zadanie-inf04-01-2501-sd) <br> _Gra w kosci_                                                             |      ❔       |       ✏️       |  ❔   |          ❔           |                                        ❔                                         |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) <br> _Urządzenia domowe_                                                                                                          |      ❔       |       ✅       |  ❔   |          ❔           |                                        ❔                                         |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) \| [INF.04-01-25.06-SD](#zadanie-inf04-01-2506-sd) <br> _Urządzenia domowe_                                                                                                          |      ❔       |       ✅       |  ❔   |          ❔           |                                        ❔                                         |
 
 ## Według roczników
 
 Od najnowszych do najstarszych, a w ramach danej sesji - po kolei.
+
+### 2025 - czerwiec
+
+#### Zadanie INF.04-01-25.06-SG
+
+Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
+
+- Arkusz: [inf_04_2025_06_01_SG.pdf](_arkusze/2025-06/inf_04_2025_06_01_SG.pdf)
+- Zasady oceniania: [inf_04_2025_01_01_SG_zo.pdf](_arkusze/2025-06/inf_04_2025_06_01_SG_zo.pdf)
+- Rozwiązanie: [INF.04-25.06/INF.04-01-25.06-SG](INF.04-25.06/INF.04-01-25.06-SG)
+
+#### Zadanie INF.04-02-25.06-SG
+
+Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
+
+- Arkusz: [inf_04_2025_06_02_SG.pdf](_arkusze/2025-06/inf_04_2025_06_02_SG.pdf)
+- Zasady oceniania: [inf_04_2025_01_02_SG_zo.pdf](_arkusze/2025-06/inf_04_2025_06_02_SG_zo.pdf)
+- Rozwiązanie: [INF.04-25.06/INF.04-02-25.06-SG](INF.04-25.06/INF.04-02-25.06-SG)
+
+#### Zadanie INF.04-01-25.06-SD
+
+Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
+
+- Arkusz: [inf_04_2025_06_01_SD.pdf](_arkusze/2025-06/inf_04_2025_06_01_SD.pdf)
+- Pliki do zadania: [pliki4.zip](_arkusze/2025-06/pliki4.zip)
+- Zasady oceniania: [inf_04_2025_06_01_SD_zo.pdf](_arkusze/2025-06/inf_04_2025_06_01_SD_zo.pdf)
+- Rozwiązanie: [INF.04-25.06/INF.04-01-25.06-SD](INF.04-25.06/INF.04-01-25.06-SD)
 
 ### 2025 - styczeń
 
@@ -103,7 +134,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2025_01_01_SD.pdf](_arkusze/2025-01/inf_04_2025_01_01_SD.pdf)
-- Pliki do zadania: [pliki1.zip](‎_arkusze/2024-06/pliki1.zip)
+- Pliki do zadania: [pliki1.zip](_arkusze/2024-06/pliki1.zip)
 - Zasady oceniania: [inf_04_2025_01_01_SD_zo.pdf](_arkusze/2025-01/inf_04_2025_01_01_SD_zo.pdf)
 - Rozwiązanie: [INF.04-25.01/INF.04-01-25.01-SD](INF.04-25.01/INF.04-01-25.01-SD)
 
@@ -114,7 +145,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2024_06_01_SG.pdf](_arkusze/2024-06/inf_04_2024_06_01_SG.pdf)
-- Pliki do zadania: [pliki1.zip](‎_arkusze/2024-06/pliki1.zip)
+- Pliki do zadania: [pliki1.zip](_arkusze/2024-06/pliki1.zip)
 - Zasady oceniania: [INF_04_2024_06_01_SG_zo.pdf](_arkusze/2024-06/INF_04_2024_06_01_SG_zo.pdf)
 - Rozwiązanie: [INF.04-24.01/INF.04-01-24.01-SG](INF.04-24.01/INF.04-01-24.01-SG/)
 
