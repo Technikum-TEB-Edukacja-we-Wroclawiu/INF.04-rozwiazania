@@ -103,7 +103,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2025_01_01_SD.pdf](_arkusze/2025-01/inf_04_2025_01_01_SD.pdf)
-- Pliki do zadania: ⚠️**Poszukiwane**⚠️
+- Pliki do zadania: [pliki1.zip](‎_arkusze/2024-06/pliki1.zip)
 - Zasady oceniania: [inf_04_2025_01_01_SD_zo.pdf](_arkusze/2025-01/inf_04_2025_01_01_SD_zo.pdf)
 - Rozwiązanie: [INF.04-25.01/INF.04-01-25.01-SD](INF.04-25.01/INF.04-01-25.01-SD)
 
@@ -114,7 +114,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2024_06_01_SG.pdf](_arkusze/2024-06/inf_04_2024_06_01_SG.pdf)
-- Pliki do zadania: ⚠️**Poszukiwane**⚠️
+- Pliki do zadania: [pliki1.zip](‎_arkusze/2024-06/pliki1.zip)
 - Zasady oceniania: [INF_04_2024_06_01_SG_zo.pdf](_arkusze/2024-06/INF_04_2024_06_01_SG_zo.pdf)
 - Rozwiązanie: [INF.04-24.01/INF.04-01-24.01-SG](INF.04-24.01/INF.04-01-24.01-SG/)
 
