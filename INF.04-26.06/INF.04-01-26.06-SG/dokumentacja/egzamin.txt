@@ -1,0 +1,3 @@
+System operacyjny: macOS 26.5
+Środowiska progamistyczne: PyCharm, WebStorm
+Języki programowania: Python, JavaScript (React)
