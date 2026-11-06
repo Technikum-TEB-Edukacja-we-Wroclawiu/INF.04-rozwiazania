@@ -23,8 +23,8 @@ Od najstarszych do najnowszych. Legenda:
 ### Aplikacja konsolowa
 
 | Symbol arkusza                                                                                                                                                                                         | C++ | C#  | Python | Java | <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> TEB BC |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-: | :-: | :----: | :--: | :-------------------------------------------------------------------------------: |
-| [INF.04-informator](#informator) <br> _Szyfr podstawieniowy GADERYPOLUKI_                                                                                                                                                   | ✅  | ✅  |   ✅   |  ✅  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19848)               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-: | :-: |:------:| :--: | :-------------------------------------------------------------------------------: |
+| [INF.04-informator](#informator) <br> _Szyfr podstawieniowy GADERYPOLUKI_                                                                                                                              | ✅  | ✅  |   ✅   |  ✅  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19848)               |
 | [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) \| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) <br> _Sortowanie przez wybieranie_                                                                  | ❔  | ❔  |   ✅   |  ✏️  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19853)               |
 | [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg) <br> _Przeszukiwanie tablicy z wartownikiem_                                                                                                           | ❔  | ❔  |   ✅   |  ✏️  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19862)               |
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) <br> _Logika systemu forum użytkowników_                                                                                                               | ❔  | ❔  |   ✅   |  ✏️  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19867)               |
@@ -38,13 +38,14 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg) \| [INF.04-01-25.01-SD](#zadanie-inf04-01-2501-sd) <br> _Logika gry w kości_                                                                           | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) <br> _Logika odtwarzacza muzyki - praca z plikami_                                                                                                     | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg) <br> _Operacje na tablicach_                                                                                                                           | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) \| [INF.04-01-25.06-SD](#zadanie-inf04-01-2506-sd) <br> _Urządzenia domowe - dziedziczenie_                                                                                                               | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) \| [INF.04-01-25.06-SD](#zadanie-inf04-01-2506-sd) <br> _Urządzenia domowe - dziedziczenie_                                                            | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
 | [INF.04-01-25.06-SG](#zadanie-inf04-01-2506-sg) <br> _Loteria liczbowa_                                                                                                                                | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
 | [INF.04-02-25.06-SG](#zadanie-inf04-02-2506-sg) <br> _Szyfr Cezara i testy jednostkowe_                                                                                                                | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
-| [INF.04-01-26.01-SG](#zadanie-inf04-01-2601-sg) <br> _Logika pojedynczej kości do gry_                                                                                                                | ❔  | ❔  |   ✏️   |  ✏️  |                                        ❔                                         |
-| [INF.04-02-26.01-SG](#zadanie-inf04-02-2601-sg) <br> _Quiz: `Pytanie` i `PytanieZamkniete`_                                                                                                                | ❔  | ❔  |   ✏️   |  ✏️  |                                        ❔                                         |
-
-### Aplikacja desktopowa
+| [INF.04-01-26.01-SG](#zadanie-inf04-01-2601-sg) <br> _Logika pojedynczej kości do gry_                                                                                                                 | ❔  | ❔  |   ✏️   |  ✏️  |                                        ❔                                         |
+| [INF.04-02-26.01-SG](#zadanie-inf04-02-2601-sg) <br> _Quiz: `Pytanie` i `PytanieZamkniete`_                                                                                                            | ❔  | ❔  |   ✏️   |  ✏️  |                                        ❔                                         |
+| [INF.04-01-26.06-SG](#zadanie-inf04-01-2606-sg) <br> _Generator haseł_                                                                                                                                 | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
+| [INF.04-02-26.06-SG](#zadanie-inf04-02-2606-sg) <br> _Klasa Notatka_                                                                                                                                   | ❔  | ❔  |   ✏️   |  ✏️  |                                        ❔                                         |
+### Aplikacja desktopowa                                                                      
 
 | Symbol arkusza                                                                                | C++ | C#  |  Python   | Java | <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> TEB BC |
 | --------------------------------------------------------------------------------------------- | :-: | :-: | :-------: | :--: | :-------------------------------------------------------------------------------: |
@@ -58,10 +59,12 @@ Od najstarszych do najnowszych. Legenda:
 ### Aplikacja webowa (front-end)
 
 | Symbol arkusza                                                                                                               | Angular | React | <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> TEB BC |
-| ---------------------------------------------------------------------------------------------------------------------------- | :-----: | :---: | :-------------------------------------------------------------------------------: |
+|------------------------------------------------------------------------------------------------------------------------------|:-------:|:-----:| :-------------------------------------------------------------------------------: |
 | [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg) <br> _Zapisy na kursy_                                                       |   ✅    |  ✅   |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19868)               |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) <br> _Obsługa formularza_ |   ✅    |  ✅   |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19895)               |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg) <br> _Kategoryzacja zdjęć w galerii_                                         |   ❔    |  ✅   |                                        ❔                                         |
+| [INF.04-01-26.06-SG](#zadanie-inf04-01-2606-sg) <br> _Menedżer haseł_                                                        |  ❔     | ✅    |                                        ❔                                         |
+
 
 ### Aplikacja webowa (back-end)
 
@@ -70,7 +73,7 @@ Jeszcze nigdy nie było.
 ### Aplikacja mobilna
 
 | Symbol arkusza                                                                                                                                                                    | Visual Studio | Android Studio | XCode | Visual Studio for Mac | <img src="bc.ico" alt="Logo TEB Biblioteki Cyfrowej" style="height: 1em;"> TEB BC |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :------------: | :---: | :-------------------: | :-------------------------------------------------------------------------------: |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: |:--------------:| :---: | :-------------------: | :-------------------------------------------------------------------------------: |
 | [INF.04-informator](#informator) <br> _Galeria zdjęć_                                                                                                                             |      ❔       |       ✅       |  ❔   |          ❔           |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19849)               |
 | [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) \| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg) <br> _Rejestracja konta_                                                       |      ❔       |       ✅       |  ❔   |          ❔           |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19854)               |
 | [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg) <br> _Domek w górach_                                                                                                             |      ❔       |       ✅       |  ❔   |          ❔           |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19863)               |
@@ -81,10 +84,32 @@ Jeszcze nigdy nie było.
 | [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) \| [INF.04-01-25.06-SD](#zadanie-inf04-01-2506-sd) <br> _Urządzenia domowe_                                                                                                          |      ❔       |       ✅       |  ❔   |          ❔           |                                        ❔                                         |
 | [INF.04-01-26.01-SG](#zadanie-inf04-01-2601-sg) <br> _Gra w kości_                                                                                                          |      ❔       |       ✏️       |  ❔   |          ❔           |                                        ❔                                         |
 | [INF.04-02-26.01-SG](#zadanie-inf04-02-2601-sg) <br> _Quiz dotyczący gór_                                                                                                          |      ❔       |       ✏️       |  ❔   |          ❔           |                                        ❔                                         |
+| [INF.04-02-26.06-SG](#zadanie-inf04-02-2606-sg) <br> _Lista Notatek_                                                                                                                 |      ❔       |       ✏️       |  ❔   |          ❔           |                                        ❔                                         |                                       
 
 ## Według roczników
 
 Od najnowszych do najstarszych, a w ramach danej sesji - po kolei.
+
+### 2026 - czerwiec
+
+#### Zadanie INF.04-01-26.06-SG
+
+Wykonaj aplikację **konsolową** oraz **webową** według wskazań.
+
+- Arkusz: [inf_04_2026_06_01_SG.pdf](_arkusze/2026-06/inf_04_2026_06_01_SG.pdf)
+- Pliki do zadania: [_arkusze/2026-06/Web1.7z](_arkusze/2026-06/Web1.7z)
+- Zasady oceniania: [INF_04_2026_06_01_SG_zo.pdf](_arkusze/2026-06/INF_04_2026_06_01_SG_zo.pdf)
+- Rozwiązanie: [INF.04-26.06/INF.04-01-26.06-SG](INF.04-26.06/INF.04-01-26.06-SG)
+
+#### Zadanie INF.04-02-26.06-SG
+
+Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
+
+- Arkusz: [inf_04_2026_06_02_SG.pdf](_arkusze/2026-06/inf_04_2026_06_02_SG.pdf)
+- Pliki do zadania: brak
+- Zasady oceniania: [INF_04_2026_06_02_SG_zo.pdf](_arkusze/2026-06/INF_04_2026_06_02_SG_zo.pdf)
+- Rozwiązanie: [INF.04-26.06/INF.04-02-26.06-SG](INF.04-26.06/INF.04-02-26.06-SG)
+
 
 ### 2026 - styczeń
 
