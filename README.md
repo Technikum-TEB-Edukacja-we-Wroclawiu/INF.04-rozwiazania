@@ -34,9 +34,9 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg) <br> _Sortowanie bąbelkowe tablicy_                                                                                                                    | ❔  | ❔  |   ✅   |  ✏️  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19889)               |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) <br> _Wirtualna wypożyczalnia filmów_                                                               | ❔  | ❔  |   ✅   |  ✏️  |               [📹](https://www.e-teb.pl/mod/page/view.php?id=19894)               |
 | [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg) <br> _Sprawdzenie poprawności numeru PESEL_                                                                                                            | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
-| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) <br> _Klasa z narzędziami dla typu łańcuchowego_ | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
-| [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg) \| [INF.04-01-25.01-SD](#zadanie-inf04-01-2501-sd) <br> _Logika gry w kości_                                                                           | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
-| [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) <br> _Logika odtwarzacza muzyki - praca z plikami_                                                                                                     | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
+| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) <br> _Klasa z narzędziami dla typu łańcuchowego_ | ❔  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
+| [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg) \| [INF.04-01-25.01-SD](#zadanie-inf04-01-2501-sd) <br> _Logika gry w kości_                                                                           | ❔  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
+| [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) <br> _Logika odtwarzacza muzyki - praca z plikami_                                                                                                     | ❔  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg) <br> _Operacje na tablicach_                                                                                                                           | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
 | [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg) \| [INF.04-01-25.06-SD](#zadanie-inf04-01-2506-sd) <br> _Urządzenia domowe - dziedziczenie_                                                                                                               | ✅  | ❔  |   ✅   |  ✅  |                                        ❔                                         |
 | [INF.04-01-25.06-SG](#zadanie-inf04-01-2506-sg) <br> _Loteria liczbowa_                                                                                                                                | ❔  | ❔  |   ✅   |  ✏️  |                                        ❔                                         |
@@ -171,7 +171,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 - Arkusz: [inf_04_2024_06_01_SG.pdf](_arkusze/2024-06/inf_04_2024_06_01_SG.pdf)
 - Pliki do zadania: [pliki1.zip](_arkusze/2024-06/pliki1.zip)
 - Zasady oceniania: [INF_04_2024_06_01_SG_zo.pdf](_arkusze/2024-06/INF_04_2024_06_01_SG_zo.pdf)
-- Rozwiązanie: [INF.04-24.01/INF.04-01-24.01-SG](INF.04-24.01/INF.04-01-24.01-SG/)
+- Rozwiązanie: [INF.04-24.06/INF.04-01-24.06-SG](INF.04-24.06/INF.04-01-24.06-SG/)
 
 #### Zadanie INF.04-02-24.06-SG
 
